@@ -2,16 +2,15 @@ import React from "react";
 export default function(){
     return(
         <>
-        <div className="card col-2 md-d-none w-full bg-dark text-white moc">
+        <div className="card col-2-sm col-4-lg w-full  moc">
         <div className="m-2">
             Main Heading
             <div className="n">
-                <ul>
-                    <li>Home</li>
-                    <li>Home</li>
-                    <li>Home</li>
-                    <li>Home</li>
-                </ul>
+                <p>Hello</p>
+                <p>Hello</p>
+                <p>Hello</p>
+                <p>Hello</p>
+                <p>Hello</p>
             </div>
         </div>
         </div>

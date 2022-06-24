@@ -1,14 +1,19 @@
-.n{
-    margin:0px;
-    padding:0px;
+.n {
+    margin-top: 20px;
+    text-align: center;
+    color: crimson;
+    font-weight: 500;
+    padding: 0px;
+
 }
-.moc{
-    position: fixed;
-    height: 700px;
-    width:150px ;   
-    margin-top: -55px; 
+
+.moc {
+    position: absolute;
+    height:100%;
+    z-index: 1;
+}
+
+.z1 {
     
-}
-.z{
-    z-index: 2px;
+    z-index: 1;
 }
